@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "lmontealegre@raspberrypi:~/Documents/_PROJ_/pocsqlite.db",
+            "name": "POC_SQLite1"
+        }
+    ]
+}
