@@ -3,7 +3,7 @@ import piplates.DAQCplate as DAQC
 port = 0
 for port in range(0,7):
     DAQC.setDOUTbit(0,port)
-    sleep(.1)
+    sleep(.2)
 port = 0
 for port in range(0,7):
     DAQC.clrDOUTbit(0,port)
