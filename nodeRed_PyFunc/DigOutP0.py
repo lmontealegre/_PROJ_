@@ -7,4 +7,4 @@ for port in range(0,7):
 port = 0
 for port in range(0,7):
     DAQC.clrDOUTbit(0,port)
-    sleep(.4)
+    sleep(.5)
